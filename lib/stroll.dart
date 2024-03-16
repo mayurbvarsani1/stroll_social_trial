@@ -13,6 +13,7 @@ export 'package:Stroll/screen/dashboard/user_dashboard_screen.dart';
 export 'screen/splash/splash_screen.dart';
 export 'package:flutter/foundation.dart';
 export 'package:Stroll/screen/cardScreen/card_screen.dart';
+export 'package:Stroll/screen/cardScreen/widget/card_widget.dart';
 
 
 /// controller

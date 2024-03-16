@@ -16,7 +16,7 @@ class AssetRes {
 
 
   ///__________________________________ Images __________________________________///
-  static const cardBackgroundImage = "${images}home_background_img.png";
+  static const cardBackgroundImage = "${images}card_background_img.png";
   static const userProfileImage = "${images}user_profile_img.png";
   static const splashImage = "${images}splash_img.png";
 
